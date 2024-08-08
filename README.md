@@ -21,3 +21,12 @@ Where User Can Find Policies By Entering The PAN Number Of The Individuals Whose
 
 
 <img width="299" alt="Screenshot 2024-08-08 at 12 28 40 PM" src="https://github.com/user-attachments/assets/5eb1de64-8151-4f61-a615-987d1f27396a">
+
+
+
+
+https://github.com/user-attachments/assets/b16d0c3e-a979-47c6-9302-7f3f6ddd5732
+
+
+
+
