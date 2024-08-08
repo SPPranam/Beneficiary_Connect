@@ -1,4 +1,4 @@
-# login_signup
+# Flutter Based App
 
 A new Flutter project.
 
