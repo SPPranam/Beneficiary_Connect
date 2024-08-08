@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132116319165",
+    "project_id": "authenticationfinal-c33d7",
+    "storage_bucket": "authenticationfinal-c33d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132116319165:android:6cc28eb1c228e585dde0d4",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeno-iHKp1wOCz76JHtzrZfObID6GdUOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
