@@ -1,4 +1,4 @@
-# Flutter Based App
+# Beneficiary connect
 
 A new Flutter project.
 
