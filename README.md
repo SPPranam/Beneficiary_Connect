@@ -1,16 +1,13 @@
 # Beneficiary connect
 
-A new Flutter project.
+Flutter Project
+Where User Can Find Policies By Entering The PAN Number Of The Individuals Whose Policies They Are Looking For
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
+![Uploading Splash Screen.png…]()
 
-A few resources to get you started if this is your first Flutter project:
+![Uploading Sign-Up.png…]()
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="243" alt="Sign-In" src="https://github.com/user-attachments/assets/8af26f66-9ef5-4e9c-868d-521bc9aaa40a">
+<img width="243" alt="Categories Screen" src="https://github.com/user-attachments/assets/29dfda4e-744f-4ede-94e8-784dd1804b35">
